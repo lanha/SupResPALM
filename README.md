@@ -6,9 +6,9 @@
 #                                                                 #
 ###################################################################
 
-     Charis Lanaras, Emmanuel Baltsavias and Konrad Schindler     
-                            ICCV 2015                              
-             Copyright 2015 ETH Zurich (Charis Lanaras)
+Charis Lanaras, Emmanuel Baltsavias and Konrad Schindler     
+ICCV 2015                              
+Copyright 2015 ETH Zurich (Charis Lanaras)
 
 
 CHANGES:
