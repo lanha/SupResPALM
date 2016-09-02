@@ -3,12 +3,18 @@
 #                                                                 #
 #  Hyperspectral Super-Resolution by Coupled Spectral Unmixing    #
 #                                                                 #
-#    Charis Lanaras, Emmanuel Baltsavias and Konrad Schindler     #
-#                          ICCV 2015                              #
-#            Copyright 2015 ETH Zurich (Charis Lanaras)           #
 #                                                                 #
 ###################################################################
 
+     Charis Lanaras, Emmanuel Baltsavias and Konrad Schindler     
+                            ICCV 2015                              
+             Copyright 2015 ETH Zurich (Charis Lanaras)
+
+
+CHANGES:
+------
+1.0 First release.
+1.1 Small fix in project simplex code.
 
 
 ABOUT:
