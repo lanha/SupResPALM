@@ -7,13 +7,11 @@ Copyright 2015 ETH Zurich (Charis Lanaras)
 
 
 ## CHANGES:
-------
 1.0 First release.
 1.1 Small fix in project simplex code.
 
 
 ## ABOUT:
-------
 This is the authors' implementation of [1].
 
 The code is implemented in MATLAB:
@@ -30,7 +28,6 @@ The code is implemented in MATLAB:
 
 
 ## IMPORTANT:
-----------
 If you use this software you should cite the following in any resulting
 publication:
 
@@ -41,7 +38,6 @@ publication:
 
 
 ## INSTALLING & RUNNING:
----------------------
 Start MATLAB and run compile.m to build the utilities binaries.
 This step can be omitted if you are using Windows 64 bit or Unix 64 bit,
 since the binaries already exist.
@@ -50,7 +46,6 @@ However, you still need the SISAL/SUnSAL package.
 
 
 ## NOTES:
-------
 1.  The simplex projection code (reproject_simplex_mex_fast.cpp) is courtesy
     of Thomas Pock, based on the on work of Yunmei Chen and Xiaojing Ye.
     Projection Onto A Simplex
