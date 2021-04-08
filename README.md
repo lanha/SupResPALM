@@ -1,7 +1,7 @@
 #  Hyperspectral Super-Resolution by Coupled Spectral Unmixing    #
 
 
-Charis Lanaras[charis.lanaras@alumni.ethz.ch], Emmanuel Baltsavias and Konrad Schindler     
+[Charis Lanaras](charis.lanaras@alumni.ethz.ch), Emmanuel Baltsavias and Konrad Schindler     
 ICCV 2015                              
 Copyright 2015 ETH Zurich (Charis Lanaras)
 
